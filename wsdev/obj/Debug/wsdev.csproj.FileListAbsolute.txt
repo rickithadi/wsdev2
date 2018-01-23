@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\bin\wsdev.dll.config
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\bin\wsdev.dll
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\bin\wsdev.pdb
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\obj\Debug\wsdev.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\obj\Debug\wsdev.csproj.CoreCompileInputs.cache
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\obj\Debug\wsdev.dll
+c:\users\asus\documents\visual studio 2017\Projects\wsdev\wsdev\obj\Debug\wsdev.pdb
